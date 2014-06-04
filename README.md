@@ -1,3 +1,11 @@
+## This repo includes the 4 R code files and 4 png files to complete this project.
+
+### The following two web sources were useful in completing this assignment:
+* http://stackoverflow.com/questions/7439977/changing-date-format-in-r?rq=1
+* http://www.r-bloggers.com/adding-a-legend-to-a-plot/
+
+#### Below are the original directions for this assignment
+
 ## Introduction
 
 This assignment uses data from
